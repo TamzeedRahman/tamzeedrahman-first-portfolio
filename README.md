@@ -187,3 +187,6 @@ Your site needs to implement all user stories and meet the UI/UX criteria. There
    You can put it at the bottom of your page as a footer or in a contact me section. A good font with tons of social icons is [FontAwesome](https://fontawesome.com/)
 
 5. **Other**: (Optional) Anything else with things you may want to include, if you write, then a blog section, if you paint or photograph then a gallery section etc.
+
+
+Trello: https://trello.com/b/xh04cSUH/fsw-personal-site-project-alvi-71
