@@ -327,7 +327,7 @@ body {
 }
 body.dark-theme {
   --text-color: #eee;
-  --bkg-color: #121212;
+  --bkg-color: #fa0808;
 }
 
 @media (prefers-color-scheme: dark) {
