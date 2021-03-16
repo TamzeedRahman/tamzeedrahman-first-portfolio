@@ -6,8 +6,9 @@ let typed = new Typed(".typing",{
     loop:true
 })
 
-
-
+//name change
+myname.addEventListener('mouseenter',() => myname.innerText = ' Tamzeed Alvi Rahman')
+myname.addEventListener('mouseleave',() => myname.innerText = 'Tamzeed Rahman')
 
 //background color changing
 
