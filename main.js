@@ -25,6 +25,8 @@ if (currentTheme == "dark") {
 btn.addEventListener("click", function () {
   if (prefersDarkScheme.matches) {
     document.body.classList.toggle("light-theme");
+  let hello = document.querySelectorAll("#one")
+  hello.classList.toggle("light-theme");
     var theme = document.body.classList.contains("light-theme")
       ? "light"
       : "dark";

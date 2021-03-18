@@ -206,9 +206,6 @@ article {
   font-size: 30px;
 }
 
-#linkedInInfo a {
-  color: #2c4745;
-}
 
 
 
@@ -322,17 +319,17 @@ margin-left: 350px;
     font-size: 20%;
   }
 }
- 
+  
 body {
   --text-color: #222;
   --bkg-color: #fff;
 }
 body.dark-theme {
   --text-color: #eee;
-  --bkg-color: #fa0808;
+  --bkg-color: #121212;
 }
 
-@media (prefers-color-scheme: dark) {
+@media(prefers-color-scheme: dark) {
   /* defaults to dark theme */
   body {
     --text-color: #eee;
@@ -342,6 +339,11 @@ body.dark-theme {
     --text-color: #2c4745;
     --bkg-color: #e6e8e8;
   }
+}
+
+.light-theme{
+  color:var(--text-color);
+   
 }
 
 * {
