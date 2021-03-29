@@ -14,7 +14,8 @@
  color: #5a0585; ;
 }
 
-
+/*Since this is a single column, it's really better suited for flexbox.*/
+/*On a large screen, there's lots of dead space, so maybe you could use multiple columns? */
 .wrapper {
   display: grid;
   grid-template-columns: 500px  ;
@@ -341,6 +342,7 @@ body.dark-theme {
   }
 }
 
+/*Nice use of CSS 'variables'!*/
 .light-theme{
   color:var(--text-color);
    
