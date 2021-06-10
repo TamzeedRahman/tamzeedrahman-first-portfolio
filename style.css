@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+.hi {
+  color: #2c4745;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 .project {
   object-fit: cover;
