@@ -6,7 +6,7 @@
   color: #2e8540;
 }
 .dark-mode {
-  background-color: #333;
+  background-color: black;
   color: white;
 }
 
@@ -320,7 +320,7 @@ article {
   }
 
   .dark-mode {
-    background-color:#333;
+    background-color: black;
     color: white;
   }
 }
